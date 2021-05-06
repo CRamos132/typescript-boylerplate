@@ -1,4 +1,4 @@
-# Book platform
+# React TypeScript boylerplate
 
 This is a boilerplate for projects using [React](https://pt-br.reactjs.org/) and [Typescript](https://www.typescriptlang.org/) with some common libraries already setup. The idea is to clone it and start programming instead of starting a new project and going trough all the configurations every time.
 
